@@ -1,6 +1,6 @@
 # 💀 Ron
 
-**`Backend Developer | Java & Spring Boot | Application Security | Frontend React`**
+**`Backend Developer | Java & Spring Boot | Application Security | Frontend React`** 
 
 Software developer with 3+ years of programming experience.  
 Currently focused on **Java, Spring Boot and application security** (Spring Security, authentication, encryption).  
