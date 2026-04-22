@@ -2,7 +2,7 @@
 
 **`Backend Developer | Java & Spring Boot | Application Security | Frontend React`**
 
-Software developer with 3+ years of programming experience.  
+Software developer with 4+ years of programming experience.  
 Currently focused on **Java, Spring Boot and application security** (Spring Security, authentication, encryption).  
 I also have experience in **Frontend with React/React Native**, giving me a full vision of the application lifecycle.  
 Motivated to build solutions that are **secure, scalable and user-centered**.  
