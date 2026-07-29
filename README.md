@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/rondrft/phosphor-stats" title="phosphor-stats">
-    <img alt="rondrft's GitHub stats" width="800" src="https://phosphor-stats.rondrft.workers.dev/api?username=rondrft&theme=mono&card=heatmap" />
+    <img alt="rondrft's GitHub stats" width="800" src="https://gstats.rondrft.workers.dev/api?username=rondrft&theme=mono&card=heatmap" />
   </a>
 </p>
 
