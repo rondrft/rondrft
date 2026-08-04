@@ -25,7 +25,7 @@ Most of what I build ends up in production with real users on it. That shapes ho
 
 <br />
 
-A full-featured Discord bot in the same category as MEE6, with **3,400+ registered users**. Server owners configure everything from a web dashboard instead of typing commands — roles, welcome flows, moderation and engagement settings, all with live server and member data behind it.
+A full-featured Discord bot in the same category as MEE6, with **11000+ registered users**. Server owners configure everything from a web dashboard instead of typing commands — roles, welcome flows, moderation and engagement settings, all with live server and member data behind it.
 
 Running it taught me most of what I know about designing for people who will never read the documentation.
 
