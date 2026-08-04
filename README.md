@@ -58,7 +58,7 @@ A WhatsApp bot with an AI layer on top, built so a business can answer, qualify 
 </details>
 
 <details>
-  <summary><b>gstats</b> — open source</summary>
+  <summary><b>Gstats</b> — open source</summary>
 
 <br />
 
