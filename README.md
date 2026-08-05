@@ -51,7 +51,7 @@ The design goal was that the business shouldn't have to change how it works to u
 
 <br />
 
-A WhatsApp bot with an AI layer on top, built so a business can answer, qualify and route customer messages without a person sitting on the other side — and hand the conversation over to a human the moment it matters.
+A WhatsApp bot with an AI layer on top (Nodo), built so a business can answer, qualify and route customer messages without a person sitting on the other side — and hand the conversation over to a human the moment it matters.
 
 `Node.js` `WhatsApp API` `LLM integration`
 
