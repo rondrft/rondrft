@@ -64,7 +64,7 @@ A WhatsApp bot with an AI layer on top (Nodo), built so a business can answer, q
 
 The stats card at the top of this page. A GitHub README stats generator running on Cloudflare Workers: zero runtime dependencies, edge-cached, five themes, and an SVG that fits in under 5 KB. Anyone can use it by swapping the username in the URL.
 
-**[github.com/rondrft/gstats](https://github.com/rondrft/gstats)** — a star helps other people find it.
+**[github.com/rondrft/gstats](https://github.com/rondrft/gstats)** — a star helps other people find it 𖹭
 
 `TypeScript` `Cloudflare Workers` `GraphQL`
 
